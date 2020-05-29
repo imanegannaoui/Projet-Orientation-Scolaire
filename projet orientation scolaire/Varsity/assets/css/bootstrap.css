@@ -1274,6 +1274,9 @@ h2,
 h3,
 .h3 {
   font-size: 24px;
+  direction: rtl;
+  color: #01BAFD;
+  font-size: 26pt;
 }
 h4,
 .h4 {

@@ -1389,7 +1389,7 @@ animation: bannermove 20s linear infinite alternate-reverse;
 }
 .mu-blog-single .mu-blog-single-item .mu-blog-caption {
   padding: 0 15px;
-  text-align: end;
+  /* text-align: end; */
 }
 .mu-blog-single .mu-blog-single-item .mu-blog-meta {
   padding: 0 15px;
