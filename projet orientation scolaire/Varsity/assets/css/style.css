@@ -1086,6 +1086,8 @@ animation: bannermove 20s linear infinite alternate-reverse;
   -ms-transition: all 0.5s;
   -o-transition: all 0.5s;
   transition: all 0.5s;
+  color: #01BAFD;
+  font-size: 26pt;
 }
 .mu-blog-single-item .mu-blog-meta {
   display: inline;
@@ -1118,9 +1120,11 @@ animation: bannermove 20s linear infinite alternate-reverse;
   width: 100%;
 }
 .mu-blog-single-item .mu-blog-description p {
-  font-size: 15px;
+  font-size: 20px;
   letter-spacing: 0.3px;
   line-height: 1.7;
+  text-align: justify;
+  direction: rtl;
 }
 .mu-blog-single-item .mu-blog-description a {
   border-color: #555;
@@ -1385,6 +1389,7 @@ animation: bannermove 20s linear infinite alternate-reverse;
 }
 .mu-blog-single .mu-blog-single-item .mu-blog-caption {
   padding: 0 15px;
+  text-align: end;
 }
 .mu-blog-single .mu-blog-single-item .mu-blog-meta {
   padding: 0 15px;
