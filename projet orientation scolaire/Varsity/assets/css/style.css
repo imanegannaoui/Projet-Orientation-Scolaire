@@ -1952,7 +1952,7 @@ animation: bannermove 20s linear infinite alternate-reverse;
   width: 100%;
 }
 #mu-footer .mu-footer-top {
-  background-color: #333;
+  background: linear-gradient(45deg, #01bafd, #50d890);
   display: inline;
   float: left;
   padding: 50px 0;
