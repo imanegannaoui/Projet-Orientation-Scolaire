@@ -1165,7 +1165,7 @@ animation: bannermove 20s linear infinite alternate-reverse;
 }
 
 #mu-course-content {
-  background-color: #f8f8f8;
+  background-color: rgb(239, 255, 251);
   display: inline;
   float: left;
   padding: 100px 0;
@@ -1669,6 +1669,7 @@ animation: bannermove 20s linear infinite alternate-reverse;
 #respond input[type="submit"] {
   margin-top: 10px;
 }
+
 
 /*==================
  GALLERY PAGE
@@ -2521,4 +2522,19 @@ animation: bannermove 20s linear infinite alternate-reverse;
   #mu-error .mu-error-area h2 {
     font-size: 100px;
   }
+}
+
+
+input[type='search'] {
+  cursor: pointer;
+  font-size: 2.8vw;
+  padding: 0.5em 0.5em 0.2em 0em;
+  border: none;
+  border-bottom: 2.5px solid var(--black);
+  background-color: var(--white);
+  color: var(--black);
+}
+
+::placeholder {
+  opacity: 0.5;
 }
