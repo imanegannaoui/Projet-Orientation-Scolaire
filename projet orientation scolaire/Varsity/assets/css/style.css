@@ -1140,11 +1140,12 @@ animation: bannermove 20s linear infinite alternate-reverse;
  COURSES PAGE
 ====================*/
 #mu-page-breadcrumb {
-  background-color: #333;
+  /* background-color: #333; */
   display: inline;
   float: left;
-  padding: 30px 0;
+  padding: 19px 0;
   width: 100%;
+  background: linear-gradient(45deg, #01bafd, #50d890);
 }
 #mu-page-breadcrumb .mu-page-breadcrumb-area {
   display: inline;
