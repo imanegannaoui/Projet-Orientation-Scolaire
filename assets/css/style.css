@@ -1145,6 +1145,7 @@ animation: bannermove 20s linear infinite alternate-reverse;
   padding: 19px 0;
   width: 100%;
   background: linear-gradient(45deg, #01bafd, #50d890);
+  margin-bottom: 20px;
 }
 #mu-page-breadcrumb .mu-page-breadcrumb-area {
   display: inline;
