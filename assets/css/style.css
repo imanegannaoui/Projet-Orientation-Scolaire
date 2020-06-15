@@ -2564,6 +2564,7 @@ input[type='search'] {
   -moz-transition: all 0.4s ease;
   -ms-transition: all 0.4s ease;
   transition: all 0.4s ease;
+  display: grid;
 }
 #timeline:before {
   content: "";
