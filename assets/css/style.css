@@ -2655,6 +2655,13 @@ input[type='search'] {
   border-right: 7px solid #01bafd;
 }
 
+#timeline .timeline-item .timeline-content p {
+  text-align: justify;
+  direction: rtl;
+}
+
+
+
 .btn {
   padding: 5px 15px;
   text-decoration: none;
@@ -2688,6 +2695,8 @@ input[type='search'] {
   box-shadow: 2px 2px 0 transparent;
 }
 
+
+
 @media screen and (max-width: 768px) {
   #timeline {
     margin: 30px;
@@ -2711,5 +2720,6 @@ input[type='search'] {
     left: 0;
   }
 }
+
 
 
