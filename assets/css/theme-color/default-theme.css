@@ -104,8 +104,8 @@ Author URI : http://www.markups.io/
 }
 
 #mu-page-breadcrumb .mu-page-breadcrumb-area .breadcrumb .active {
-  /* color: #01bafd; */
-  font-size: 40pt;
+  /* color: #01bafd; 
+  font-size: 40pt;*/
 }
 
 #mu-course-content {
